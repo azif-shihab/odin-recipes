@@ -1,4 +1,4 @@
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://azif-shihab.github.io/odin-recipes/)
 
 # Food Recipes
 
