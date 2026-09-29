@@ -34,5 +34,6 @@ More recipes may be added as the project develops.
 ## Technologies Used
 
 - HTML
+- CSS
 - Git
 - GitHub
