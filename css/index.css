@@ -1,0 +1,85 @@
+* {
+	background-color: #000;
+	color: #039c23;
+}
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+.outer-container {
+	text-align: center;
+	border: solid 2px #fff;
+	padding: 3rem;
+	margin: 10rem;
+	border-radius: 10px;
+	background-color: #13111c;
+}
+
+.outer-container * {
+	background-color: inherit;
+}
+
+#title {
+	font-family: "Bruno Ace SC", sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	margin-bottom: 3rem;
+}
+
+#second-title {
+		font-family: "Bruno Ace SC", sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	padding-bottom: 10px;
+}
+
+ul {
+	list-style: none;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu {
+	display: block;
+	width: 500px;
+	height: 50px;
+	margin-bottom: 10px;
+	font-size: 1rem;
+	font-family: "Bruno Ace SC", sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	border: solid 1px #181d26;
+	text-align: center;
+	padding-top: 2rem;
+	border-radius: 10px;
+}
+
+button {
+	border: solid 1px #181d26;
+	border-radius: 10px;
+}
+
+.author-info {
+	font-family: "JetBrains Mono", monospace;
+	font-size: 15px;
+	margin: 50px 0px 20px 0px;
+	font-weight: bold;
+}
+
+.tail-end {
+	font-family: "JetBrains Mono", monospace;
+	font-size: 12px;
+	padding-left: 10px;
+	text-decoration: underline;
+}
+
+img {
+	border: 1px solid #181d26;
+	border-radius: 10px;
+	width: 500px;
+	height: auto;
+}
